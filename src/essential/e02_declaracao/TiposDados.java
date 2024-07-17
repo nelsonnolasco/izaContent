@@ -1,4 +1,4 @@
-package introducao;
+package essential.e02_declaracao;
 
 public class TiposDados {
     public static void main(String[] args) {
